@@ -10,9 +10,9 @@ int main(void)
 	char alphabets;
 
 	for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
-		printf("%c", alphabets);
+		putchar(alphabets);
 	for (alphabets = 'A'; alphabets <= 'Z'; alphabets++)
-		printf("%c", alphabets);
-	printf("\n");
+		putchar(alphabets);
+	putchar('\n');
 	return (0);
 }
