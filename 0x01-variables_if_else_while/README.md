@@ -8,3 +8,5 @@
 **6-print_numberz.c** prints all single digit numbers of base 10 using putchar()  
 **7-print_tebahpla.c** prints the alphabet all in lowercase in reverse using putchar()  
 **8-print_base16** prints all numbers of base 16 using putchar()   
+**9-print_comb.c** prints a comma seperated list of  positive numbers below 10
+**100-print_comb3.c** prints a comma seperated list of 2-digit numbers below 99 with a combination of digit like 01 and 10 being the samme
