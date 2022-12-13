@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet() - prints the alphabet in lower case
- * @loAlpha: The variable holding earch alphabet through the loop
+ * print_alphabet() - external function
+ * 
+ *Description: prints the alphabet in lower case
+ *
  */
 void print_alphabet(void)
 {
