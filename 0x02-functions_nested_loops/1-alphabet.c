@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet() - external function
+ * print_alphabet - prints the alphabet in lower case
  *
- * Description: prints the alphabet in lower case
- *
+ * Description: printing should be done with _putchar function.
  */
 void print_alphabet(void)
 {
