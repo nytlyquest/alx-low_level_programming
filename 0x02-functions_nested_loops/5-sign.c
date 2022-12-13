@@ -2,8 +2,10 @@
 
 /**
  * print_sign - prints the sign of a digit
+ * @n: number to be evaluated
  *
  * Description: printing should be done with _putchar function.
+ * Return: 1 if number is positive, 0 if zero and -1 if negative
  */
 int print_sign(int n)
 {
