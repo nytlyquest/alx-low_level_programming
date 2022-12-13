@@ -2,8 +2,8 @@
 
 /**
  * print_alphabet() - external function
- * 
- *Description: prints the alphabet in lower case
+ *
+ * Description: prints the alphabet in lower case
  *
  */
 void print_alphabet(void)
