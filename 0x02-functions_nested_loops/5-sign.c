@@ -5,7 +5,7 @@
  *
  * Description: printing should be done with _putchar function.
  */
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
