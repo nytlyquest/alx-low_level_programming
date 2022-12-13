@@ -9,23 +9,19 @@ int main(void)
 {
 	int numa, numb;
 
-	for (numa = 0; numa <= 9; numa++)
+	for (numa = 0; numa <= 98; numa++)
 	{
-		for (numb = 0; numb <= 9; numb++)
+		for (numb = numa + 1; numb <= 99; numb++)
 		{
-			putchar('0' + numa);
-			putchar('0' + numb);
-			if (numa != 10 && numb != 9)
-			{
-				putchar(',');
-				putchar(' ');
-			}
-		}
-
-		if (numa != 9 && numb != 9)
-		{
-		  	putchar(',');
-		  	putchar(' ');
+			putchar('0' + (numa / 10));
+			putchar('0' + (numa % 10));
+			putchar(' ');
+			putchar('0' + (numb / 10));
+			putchar('0' + (numb % 10));
+			if (numa == 98 && numb == 99)
+				continue;
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');

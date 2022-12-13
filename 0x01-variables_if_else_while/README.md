@@ -11,3 +11,4 @@
 **9-print_comb.c** prints a comma seperated list of  positive numbers below 10
 **100-print_comb3.c** prints a comma seperated list of 2-digit numbers below 99 with a combination of digit like 01 and 10 being the samme
 **101-print_comb4.c** prints a comma seperated list of 3-digit numbers below 999 with a combination of digit like 012, 021, 102, 120, 201 and 210 being the samme
+**102-print_comb5.c** prints a comma seperated list of two 2-digit numbers below 99 with a combination of digit like 00 01 and 01 00 being the samme
