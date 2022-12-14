@@ -12,5 +12,5 @@ int print_last_digit(int theNum)
 	if (theNum < 0)
 		theNum *= -1;
 	_putchar('0' + theNum%10);
-	return(theNum%10);
+	return (theNum % 10);
 }
