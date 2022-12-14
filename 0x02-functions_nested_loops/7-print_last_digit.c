@@ -10,7 +10,16 @@
 int print_last_digit(int theNum)
 {
 	if (theNum < 0)
+	{
+		theNum += 1;
 		theNum *= -1;
-	_putchar('0' + theNum%10);
-	return (theNum % 10);
+		theNum = (theNum % 10) + 1;
+		_putchar('0' + theNum);
+	}
+	else
+	{
+		theNum = theNum % 10;
+		_putchar('0' + theNum);
+	}
+	return (theNum);
 }
