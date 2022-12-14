@@ -5,15 +5,11 @@
  * @abNum: the number whose absolute value needs to be given
  *
  * Description: printing should be done with _putchar function.
- * Return: positive number of what is passed 
+ * Return: positive number of what is passed
  */
 int _abs(int abNum)
 {
-	if (abNum == 0)
-	{
-		return (0);
-	}
-	else if (abNum > 0)
+	if (abNum >= 0)
 	{
 		return (abNum);
 	}
