@@ -1,21 +1,21 @@
 #include "main.h"
 
 /**
- * print_triangle - prints a triangle with the hash symbol a number of times
- * @size: the number of times to print
+ * print_diagonal - prints a backslash symbol a number of times
+ * @n: the number of times to print
  *
- * Description: Hash is printed n number of times if n is not 0 or less
+ * Description: backslash is printed n number of times if n is not 0 or less
  */
-void print_triangle(int size)
+void print_diagonal(int n)
 {
-	if (size > 0)
+	if (n > 0)
 	{
 		int rhsh, tdt, tfln;
 
-		for (rhsh = 0; rhsh <= size; rhsh++)
+		for (rhsh = 0; rhsh <= n; rhsh++)
 		{
-			tfln = size - rhsh;
-			if (tfln == size)
+			tfln = n - rhsh;
+			if (tfln == n)
 				continue;
 			else
 			{
