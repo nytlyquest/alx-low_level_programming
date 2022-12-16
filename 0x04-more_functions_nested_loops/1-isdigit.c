@@ -1,11 +1,9 @@
-#include "main.h"
-
 /**
  * _isdigit - checks for uppercase character
- * @c: the input at to be checked
+ * @c: the input to be checked
  *
  * Description: characters of the alphabet will be passed
- * Return: 1 if uppercase and 0 if otherwise
+ * Return: rtn is 1 if uppercase and 0 if otherwise
  */
 int _isdigit(int c)
 {
