@@ -14,8 +14,8 @@ void print_diagonal(int n)
 
 		for (rhsh = 0; rhsh <= n; rhsh++)
 		{
-			tfln = n - rhsh;
-			if (tfln == n)
+			tfln = rhsh;
+			if (tfln == 0)
 				continue;
 			else
 			{
