@@ -5,3 +5,6 @@
 
 * **1-main.c:**
     *Commenting out lines of code to prevent an infinite loop.
+
+* **2-largest_number.c:**
+    *A function that prints out the largest of 3 numbers.
