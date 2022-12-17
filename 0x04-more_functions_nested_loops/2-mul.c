@@ -10,8 +10,5 @@
  */
 int mul(int a, int b)
 {
-	int mulRslt;
-
-	mulRslt = a * b;
-	return(mulRslt);
+	return(a * b);
 }
