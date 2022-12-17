@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * more_numbers - prints a range of numbers 10 times
- * Description: numbers 0 through to 14 will be passed
+ * more_numbers - prints a range of numbers ten times
  * Return: Always 0 
  */
-void more_numbers (void)
+void more_numbers(void)
 {
 	int dig, cnt = 0;
 
