@@ -17,3 +17,6 @@
 
 * **5-rev_string.c:**
     *A function that reverses a string.
+
+* **6-puts2.c:**
+    *A functiona that prints every other character in a a string.
