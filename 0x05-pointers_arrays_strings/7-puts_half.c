@@ -12,9 +12,10 @@ void puts_half(char *str)
 
 	while (str[strlen] != '\0')
 		strlen++;
+	strlen -= 1;
 	if (strlen % 2 == 1)
 	{
-		for (i = ((strlen / 2)); i <= strlen; i++)
+		for (i = ((strlen / 2) + 1); i <= strlen; i++)
 			_putchar(str[i]);
 	}
 	else
