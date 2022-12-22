@@ -8,3 +8,6 @@
 
 * **2-strncpy.c:**
     *A function that copies n characters of the second string into the buffer of the first string.
+
+* **2-strcmp.c:**
+    *A function that compares two strings, terminating as soon as there is a difference.
