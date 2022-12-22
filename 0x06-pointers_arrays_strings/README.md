@@ -6,3 +6,5 @@
 * **1-strncat.c:**
     *A function that concatenates the first string with n characters of the second string.
 
+* **2-strncpy.c:**
+    *A function that copies n characters of the second string into the buffer of the first string.
