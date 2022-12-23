@@ -17,3 +17,6 @@
 
 * **5-string_toupper.c:**
     *A function that changes all lowercase letters of a string to uppercase.
+
+* **7-leet.c:**
+    *A function that replaces letters a & A with 4, e & E with 3, o & O with 0, t & T with 7 and l & L with 1e.
