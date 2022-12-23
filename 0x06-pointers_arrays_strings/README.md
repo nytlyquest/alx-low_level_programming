@@ -14,3 +14,6 @@
 
 * **4-rev_array.c:**
     *A function that reverses the content of an array.
+
+* **5-string_toupper.c:**
+    *A function that changes all lowercase letters of a string to uppercase.
