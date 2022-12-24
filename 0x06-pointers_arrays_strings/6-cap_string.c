@@ -7,8 +7,9 @@
 char *cap_string(char *arr)
 {
 	int i = 0, j;
-	char wrdspt[] = {' ', '\t', '\n', ',', ';', '.', '!', '?', '"', '(', ')', '{', '}'};
+	char wrdspt[];
 
+	wrdspt = {' ', '\t', '\n', ',', ';', '.', '!', '?', '"', '(', ')', '{', '}'};
 	while (arr[i])
 	{
 		if (i == 0 && (arr[i] >= 'a' && arr[i] <= 'z'))
