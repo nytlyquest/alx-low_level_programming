@@ -15,8 +15,8 @@
 * **4-strpbrk.c:**
     * A function that searches a string for any of a set of bytes
 
-* **.c:**
-    *
+* **5-strstr.c:**
+    * A function that locates a substring within a given string
 
 * **7-print_chessboard.c:**
     * A function that prints the chessboard
