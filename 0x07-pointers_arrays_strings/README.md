@@ -18,8 +18,8 @@
 * **.c:**
     *
 
-* **.c:**
-    *
+* **7-print_chessboard.c:**
+    * A function that prints the chessboard
 
 * **.c:**
     *
