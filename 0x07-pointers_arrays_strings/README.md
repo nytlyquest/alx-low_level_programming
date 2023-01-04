@@ -12,8 +12,8 @@
 * **3-strspn.c:**
     * A function that gets the ;ength of a string that contains all characters of a substring
 
-* **.c:**
-    *
+* **4-strpbrk.c:**
+    * A function that searches a string for any of a set of bytes
 
 * **.c:**
     *
