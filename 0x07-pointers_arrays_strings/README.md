@@ -9,8 +9,8 @@
 * **2-strchr.c:**
     * A function that returns a pointer to the first occurence of a character in a string ot NUll if character doesn't exist
 
-* **.c:**
-    *
+* **3-strspn.c:**
+    * A function that gets the ;ength of a string that contains all characters of a substring
 
 * **.c:**
     *
@@ -21,5 +21,5 @@
 * **7-print_chessboard.c:**
     * A function that prints the chessboard
 
-* **.c:**
-    *
+* **8-print_diagsums.c:**
+    * A function that sums the 2 diagonals of a square matrix
