@@ -12,5 +12,8 @@
 * **3-factorial.c:**
     * A function that returns the factorial of a positive number and -1 when a negative number
 
+* **3-factorial.c:**
+    * A function that return the exponential result of a number and -1 when exponent is negative number
+
 * **.c:**
     * 
