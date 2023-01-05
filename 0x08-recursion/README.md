@@ -9,5 +9,8 @@
 * **2-strlen_recursion.c:**
     * A function that prints the length of a string
 
+* **3-factorial.c:**
+    * A function that returns the factorial of a positive number and -1 when a negative number
+
 * **.c:**
     * 
