@@ -6,5 +6,8 @@
 * **1-print_rev_recursion.c:**
     * A function that prints a string in reverse followed by a new line to stdout
 
+* **2-strlen_recursion.c:**
+    * A function that prints the length of a string
+
 * **.c:**
     * 
