@@ -23,3 +23,6 @@
 
 * **8-print_diagsums.c:**
     * A function that sums the 2 diagonals of a square matrix
+
+* **100-set_string.c:**
+    * A function that sets the value of a pointer to a char 
