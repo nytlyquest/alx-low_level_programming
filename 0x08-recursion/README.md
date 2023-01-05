@@ -18,8 +18,8 @@
 * **5-sqrt_recursion.c:**
     * A function that returns the square root of a number
 
-* **.c:**
-    * 
+* **6-is_prime_number.c:**
+    * A function that return 1 if a number is prime and 0 is not
 
 * **.c:**
     * 
