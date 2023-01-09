@@ -11,6 +11,7 @@
 int chkcent(int sum, int num)
 {
 	int whl, rmdr;
+
 	if (num >= 25)
 	{
 		whl = num / 25;
