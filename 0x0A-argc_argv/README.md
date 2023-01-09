@@ -5,3 +5,9 @@
 
 * **1-args.c:**
     * A program that prints the number of arguments passed to it
+
+* **2-args.c:**
+    * A program that prints all arguments passed to it
+
+* **.c:**
+    * 
