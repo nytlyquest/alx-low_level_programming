@@ -15,5 +15,5 @@
 * **4-add.c:**
     * A program that prints the sum of arguments passed to the program if all arguments are integers, Error when arguments includes a character, and 0 if no arguement was passed
 
-* **.c:**
-    * 
+* **100-change.c:**
+    * A program that prints the minimum number of coins to make change for an amount of money
