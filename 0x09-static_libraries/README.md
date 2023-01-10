@@ -1,4 +1,7 @@
 # 09. Static Libraries
 
-* **.c:**
-    * 
+* **main.h:**
+    * Header file cointaining all prototypes to files 
+
+* **libmy.a:**
+    * Static library
