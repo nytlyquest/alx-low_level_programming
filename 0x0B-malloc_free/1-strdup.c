@@ -12,7 +12,7 @@ char *_strdup(char *str)
 	int cnt = 0, i = 0;
 	char *arr;
 
-	if (str[cnt] == NULL)
+	if (str == NULL)
 		return (NULL);
 	if (str[cnt] == '\0')
 		return (NULL);
