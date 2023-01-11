@@ -9,5 +9,7 @@ Programming in C
 0x06. More Pointers, Arrays and Strings  
 0x07. Even more Pointers, Arrays and Strings  
 0x08. Recursion  
-0x0A. Argc, Argv  
 0x09. Static Libraries   
+
+0x0A. argc, argv  
+0x0B. malloc, free  
