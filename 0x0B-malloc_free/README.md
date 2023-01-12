@@ -6,8 +6,8 @@
 * **1-strdup.c:**
     * A function that returns a pointer to a newly allocated space in memory, containing a copy of the string parameter`
 
-* **.c:**
-    * 
+* **2-str_concat.c:**
+    * A function that concatenates two strings
 
 * **.c:**
     * 
