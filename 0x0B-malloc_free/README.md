@@ -9,8 +9,8 @@
 * **2-str_concat.c:**
     * A function that concatenates two strings
 
-* **.c:**
-    * 
+* **3-alloc_grid.c:**
+    * A function that returns a pointer to a 2 dimensional array of integers
 
 * **.c:**
     * 
