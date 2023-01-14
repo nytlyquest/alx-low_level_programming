@@ -19,6 +19,6 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	if (locarr == NULL)
 		return (NULL);
 	for (i = 0; i < nmemb * size; i++)
-		*(space + i) = 0;
+		*(locarr + i) = 0;
 	return (locarr);
 }
