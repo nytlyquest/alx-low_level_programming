@@ -10,7 +10,7 @@
     * A function that allocates memory for an array 
 
 * **3-array_range.c:**
-    * 
+    * A function that create an array of integers and initialize them to a range of values with the lower and upper bound included 
 
 * **.c:**
     * 
